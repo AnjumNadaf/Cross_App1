@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "CA1.Cross_App1.Cross_App1",
+        "description": "cross app 1 ",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#Cross_App1-Display",
+        "navigationComponentName": "CA1.Cross_App1",
+        "intentSemanticObject": "Cross_App1",
+        "intentAction": "Display",
+        "html5ApplicationName": "crossapp01",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "5bb9550c-cf4a-4003-90d2-802ce895db10"
+        ],
+        "contentPackages": [
+            "1509979b-8bbf-4e4e-9043-c5b5d33a247b"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "cross app 1",
+        "subtitle": "cross app 1",
+        "searchKeywords": "cross app 1,cross app 1",
+        "displayIconUrl": "sap-icon://approvals",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
